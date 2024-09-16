@@ -1,0 +1,7 @@
+.Menu {
+  display: flex;
+}
+
+.Menu > div {
+  flex: 1;
+}
